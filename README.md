@@ -13,8 +13,8 @@
 For legal, ethical and educational purposes, all users using **Stamper** for any reasons, context or situations **agrees to the following**:
 ```
 [!]---------------------------------------------------------------------------------------------------------------------[!]
-The usage of Stamper on any devices, networks or hosts with no legal permission(s) is stricly illegal!
-Stamper was made for ethical and educational purposes and to provide a PoC for the lack of security in HTTP-Auth.
-It also means any crimes hold against the user is not the responsability of the tool nor its creator but the user only.
+      The usage of Stamper on any devices, networks or hosts with no legal permission(s) is stricly illegal!
+    Stamper was made for ethical and educational purposes and to provide a PoC for the lack of security in HTTP-Auth.
+  It also means any crimes hold against the user is not the responsability of the tool nor its creator but the user only.
 [!]---------------------------------------------------------------------------------------------------------------------[!]
 ```
