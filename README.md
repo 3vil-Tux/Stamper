@@ -6,10 +6,10 @@
 </p>
 </p>
 
-# Stamper
+## Stamper
 **Stamper** is an automated tool written in Python3 to automate the process of discovering and attacking HTTP-Auth Verb Tampering vulnerability in Web-Applications running HTTP-Auth Protocol, such as routers or admin panels written by **3vil.Tux** for Web Pentesters, Security Consultants and Web Developers looking forward testing their to security and reliability efficiently with a reliable result and tool.
 
-# Disclaimer / ToS
+## Disclaimer / ToS
 For legal, ethical and educational purposes, all users using **Stamper** for any reasons, context or situations **agrees to the following**:
 ```
 [!]---------------------------------------------------------------------------------------------------------------------[!]
@@ -18,3 +18,13 @@ For legal, ethical and educational purposes, all users using **Stamper** for any
   It also means any crimes hold against the user is not the responsability of the tool nor its creator but the user only.
 [!]---------------------------------------------------------------------------------------------------------------------[!]
 ```
+
+## Requirements
+**[Python](http://www.python.org/download/)** version **2.6**, **2.7** or **3.x**  is required for running this program.
+
+## Installation
+Download commix by cloning the Git repository:
+
+    git clone https://github.com/3vil-Tux/Stamper
+    cd Stamper
+    python3 Stamper.py
