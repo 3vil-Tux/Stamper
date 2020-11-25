@@ -20,10 +20,10 @@ For legal, ethical and educational purposes, all users using **Stamper** for any
 ```
 
 ## Requirements
-**[Python](http://www.python.org/download/)** version **2.6**, **2.7** or **3.x**  is required for running this program.
+**[Python](http://www.python.org/download/)** version **3.x**  is required in order to run **Stamper**.
 
 ## Installation
-Download commix by cloning the Git repository:
+Clone/Download **Stamper** by using Git command-line tool:
 
     git clone https://github.com/3vil-Tux/Stamper
     cd Stamper
