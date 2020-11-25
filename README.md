@@ -5,5 +5,6 @@
     <a href="https://discord.com/"><img alt="Version Beta.1.0" src="https://img.shields.io/badge/Discord-3vil.Tux%236666-blue"></a>
 </p>
 </p>
+
 # Stamper
-Detect and discover HTTP-Auth Verb Tampering attacks &amp; vulnerabilities.
+**Stamper** is a easy and reliable automated tool for discovering HTTP-Auth Verb Tampering vulnerabilities which leads to bypassing HTTP-Auth in order to gain remote access to the remote host.
