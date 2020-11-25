@@ -7,4 +7,4 @@
 </p>
 
 # Stamper
-**Stamper** is an automated tool written in Python3 to automate the process of discovering and attacking HTTP-Auth Verb Tampering vulnerability in Web-Applications running HTTP-Auth Protocol, such as routers or admin panels written by **3vil.Tux** for Web Pentesters, Security Consultants and Web Developers looking forward testing their security and reliability.
+**Stamper** is an automated tool written in Python3 to automate the process of discovering and attacking HTTP-Auth Verb Tampering vulnerability in Web-Applications running HTTP-Auth Protocol, such as routers or admin panels written by **3vil.Tux** for Web Pentesters, Security Consultants and Web Developers looking forward testing their to security and reliability efficiently with a reliable result and tool.
