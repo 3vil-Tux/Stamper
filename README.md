@@ -31,5 +31,5 @@ Clone/Download **Stamper** by using Git command-line tool:
     sudo python3 Stamper.py
 
 ## Screenshot
-**Stamper** used against **[Root-me](http://challenge01.root-me.org/web-serveur/ch8/)** HTTP-Auth Verb Tampering challenge.
+**Stamper** used against a vulnerable HTTP-Auth Verb Tampering challenge.
 <a href="http://challenge01.root-me.org/web-serveur/ch8/"><img alt="Version Beta.1.0" src="https://i.imgur.com/ryyuncF.png"></a>
