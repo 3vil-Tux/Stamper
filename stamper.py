@@ -117,6 +117,8 @@ def Run():
                 broadcast.good(f"Possible attack found using verb '{verb}'!")
             else:
                 broadcast.bad("Remote host responded with empty page")
+          else:
+                broadcast.bad(f"Remote host responded with {str(fuzzedRequest['cpde'])}!")
         broadcast.newLine()
 
     # Display results
