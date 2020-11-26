@@ -28,7 +28,7 @@ Clone/Download **Stamper** by using Git command-line tool:
 
     git clone https://github.com/3vil-Tux/Stamper
     cd Stamper
-    python3 Stamper.py
+    sudo python3 Stamper.py
 
 ## Screenshot
 **Stamper** used against **[Root-me](http://challenge01.root-me.org/web-serveur/ch8/)** HTTP-Auth Verb Tampering challenge.
