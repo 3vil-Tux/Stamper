@@ -27,13 +27,13 @@ import sys
 '''Code(s)'''
 def checkOperatingSystem():
     if not "linux" in sys.platform:
-        sys.stdout.write("Please run AWAT with a Linux Distribution!\nFor compatibility and stability purposes, AWAT is restricted on Windows!")
+        sys.stdout.write("Please run Stamper with a Linux Distribution!\nFor compatibility and stability purposes, AWAT is restricted on Windows!")
         sys.stdout.flush()
         sys.exit()
 
 def checkPythonRuntimeVersion():
     if sys.version_info[0] < 3:
-        sys.stdout.write("Please run AWAT with Python3!\n")
+        sys.stdout.write("Please run Stamper with Python3!\n")
         sys.stdout.flush()
         sys.exit()
 
